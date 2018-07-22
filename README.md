@@ -1,4 +1,4 @@
-# AlwaysOn-CICD
+# Scalable-CICD
 
 
 kubectl create serviceaccount cluster-admin-dashboard-sa
